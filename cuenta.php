@@ -11,6 +11,7 @@
 ?>
 
 <!DOCTYPE html>
+
 <html>
 <head>
 	<title>Tu cuenta</title>
